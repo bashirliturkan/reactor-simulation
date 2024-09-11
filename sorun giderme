@@ -1,0 +1,3 @@
+# Sorun Giderme
+**Soru:** "ModuleNotFoundError: No module named 'sklearn'"
+**Çözüm:** Gerekli Python paketlerinin kurulu olduğundan emin olun. `pip install numpy scikit-learn` komutunu kullanarak eksik paketleri yükleyin.
