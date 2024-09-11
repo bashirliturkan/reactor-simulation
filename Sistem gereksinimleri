@@ -1,0 +1,4 @@
+# Sistem Gereksinimleri
+- Python 3.8 veya daha yeni bir sürüm
+- Tkinter kütüphanesi (Python ile birlikte gelir)
+- Gerekli Python paketleri: numpy, scikit-learn
